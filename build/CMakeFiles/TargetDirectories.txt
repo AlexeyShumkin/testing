@@ -1,0 +1,5 @@
+/home/awl/projects/testing/build/CMakeFiles/task.dir
+/home/awl/projects/testing/build/CMakeFiles/package.dir
+/home/awl/projects/testing/build/CMakeFiles/package_source.dir
+/home/awl/projects/testing/build/CMakeFiles/edit_cache.dir
+/home/awl/projects/testing/build/CMakeFiles/rebuild_cache.dir

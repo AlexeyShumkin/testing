@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/awl/projects/testing/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/task.dir/main.cpp.o -c /home/awl/projects/testing/main.cpp",
+  "file": "/home/awl/projects/testing/main.cpp"
+}
+]
